@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
-🤝 I’m currently looking for new opportunities in the field of IT.<br>🌱 I’m currently learning MERN<br>💬 Ask me about REACT, NODE, JAVA,<br>⚡ Fun fact- I am funny
+🤝 I’m currently looking for new opportunities in the field of Software Development.<br>🌱 I’m currently learning MERN<br>💬 Ask me about REACT, NODE, JAVA,<br>⚡ Fun fact- I am funny
 
 
 ## 🌐 Socials:
