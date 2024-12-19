@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/AshishRanjan9ar/AshishRanjan9ar/blob/master/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/samarsajad/samarsajad/assets/142666229/51d590e2-dc2f-4beb-b117-22538c953315">
 
 # 💫 About Me:
 🤝 I’m currently looking for new opportunities in the field of Software Development.<br>🌱 I’m currently learning MERN<br>💬 Ask me about REACT, NODE, JAVA,<br>⚡ Fun fact- I am funny
