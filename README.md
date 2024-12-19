@@ -67,7 +67,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Ashishranjan9ar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ashishrrr09)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://user-images.githubusercontent.com/81325730/209661030-9490803c-c1ba-4f4e-80ca-4159996b8e0c.png)]()
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
