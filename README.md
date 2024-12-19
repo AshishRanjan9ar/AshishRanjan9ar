@@ -1,34 +1,107 @@
-![MasterHead](https://github.com/AshishRanjan9ar/AshishRanjan9ar/blob/master/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/samarsajad/samarsajad/assets/142666229/51d590e2-dc2f-4beb-b117-22538c953315">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-# 💫 About Me:
-🤝 I’m currently looking for new opportunities in the field of Software Development.<br>🌱 I’m currently learning MERN<br>💬 Ask me about REACT, NODE, JAVA,<br>⚡ Fun fact- I am funny
+<div id="header" align="center">
 
+<h1>Hey there, Ashish this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+
+</div>
+
+<br>
+
+<div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
+</div>
+
+### 💫 About Me
+
+- 🎓 I'm a Student and Web Developer.
+- 🔭 I’m currently working on Web Development and DSA.
+- 🌱 I’m currently learning DevOps.
+- 👯 I’m looking to collaborate with open source enthusiasts and developers.
+- 🥅 2024 Goals: Learn DevOps, Nextjs And strengthen DSA.
+- 📍 Location: **India**
+
+<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imashish009) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-ranjan-699436197) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashishrrr09) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashishranjan9ar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashishranjan9ar&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishranjan9ar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ashishranjan9ar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://instagram.com/___a_sh_i_sh___" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ashish-ranjan-699436197" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/ashishrrr09" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ashishrrr09)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ashishranjan9ar&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+## 💻 Tech Stack:
+
+<div align="center">
+
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,jquery,tailwind,vite,mongodb,postman,java,aws,vercel,git,bash,linux&perline=11" />
+</a>
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats:
+
+<div align="center">
+
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshishRanjan9ar&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshishRanjan9ar&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshishRanjan9ar&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshishRanjan9ar&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshishRanjan9ar&theme=radical&utcOffset=8">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=AshishRanjan9ar&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=AshishRanjan9ar&theme=radical">
+
+</div><br>
+
+# 🏆 GitHub Trophies
+
+<details>	
+    ![](https://github-profile-trophy.vercel.app/?username=Ashishranjan9ar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</details>
+<br>
+<details>	
+    ## 🐦 Latest Tweet
+    [![](https://gtce.itsvg.in/api?username=ashishrrr09)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+    
+    ### ✍️ Random Dev Quote
+    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+    
+    ### 🔝 Top Contributed Repo
+    ![](https://github-contributor-stats.vercel.app/api?username=Ashishranjan9ar&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+</details>
+<br>
+<!--
+<details>
+  <summary><b> HoloPin Badges </b></summary>
+[![@somnath0904's Holopin board](https://holopin.me/somnath0904)](https://www.holopin.io/@somnath0904#)
+</details><br/>
+-->
+
+<hr>
+
+<p align="center">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/somnath0904" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashishranjan9ar&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🎎 Visitors count: <p align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshishRanjan9ar&label=Profile%20views&color=0e75b6&style=flat" alt="somnath0904" /> </p> <br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
