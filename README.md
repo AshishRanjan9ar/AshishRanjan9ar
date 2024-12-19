@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<img width=100% src="https://github.com/AshishRanjan9ar/AshishRanjan9ar/blob/master/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?type=waving&color=6499E9&height=90&section=header"/>
 
 <div id="header" align="center">
 
@@ -10,7 +10,7 @@
 <br>
 
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
+<img align="right" src="https://github.com/samarsajad/samarsajad/assets/142666229/51d590e2-dc2f-4beb-b117-22538c953315" alt="Profile Image" width="340" />
 </div>
 
 ### 💫 About Me
