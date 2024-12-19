@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on Web Development and DSA.
 - 🌱 I’m currently learning Cloud Computing & DevOps.
 - 👯 I’m looking to collaborate with open source enthusiasts and developers.
-- 🥅 2024 Goals: Learn AWS, DevOps, Nextjs And strengthen DSA.
+- 🥅 2025 Goals: Learn AWS, DevOps, Nextjs And strengthen DSA.
 - 📍 Location: **India**
 
 <br>
