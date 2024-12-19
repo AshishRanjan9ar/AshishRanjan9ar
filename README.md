@@ -63,32 +63,18 @@
 
 </div><br>
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ashishranjan9ar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<details>	
-    ![](https://github-profile-trophy.vercel.app/?username=Ashishranjan9ar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</details>
-<br>
-<details>	
-    ## 🐦 Latest Tweet
-    [![](https://gtce.itsvg.in/api?username=ashishrrr09)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-    
-    ### ✍️ Random Dev Quote
-    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-    
-    ### 🔝 Top Contributed Repo
-    ![](https://github-contributor-stats.vercel.app/api?username=Ashishranjan9ar&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=ashishrrr09)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-</details>
-<br>
-<!--
-<details>
-  <summary><b> HoloPin Badges </b></summary>
-[![@somnath0904's Holopin board](https://holopin.me/somnath0904)](https://www.holopin.io/@somnath0904#)
-</details><br/>
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<hr>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ashishranjan9ar&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 <p align="center">
   <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
