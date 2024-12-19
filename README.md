@@ -10,7 +10,7 @@
 <br>
 
 <div>
-<img align="right" src="https://github.com/samarsajad/samarsajad/assets/142666229/51d590e2-dc2f-4beb-b117-22538c953315" alt="Profile Image" height="1000" width="3400" />
+<img align="right" src="https://github.com/samarsajad/samarsajad/assets/142666229/51d590e2-dc2f-4beb-b117-22538c953315" alt="Profile Image"  width="3400" />
 </div>
 
 ### 💫 About Me
